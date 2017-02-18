@@ -1,0 +1,7 @@
+{
+    "AUTHOR" : "jaw3l",
+    "INSTALL_MSG" : "Thank you for installing. Syntax `[p]speedtest`",
+    "NAME" : "Speedtest",
+    "SHORT" : "Speedtest for your server!",
+    "DESCRIPTION" : "Tests your server's internet speed."
+}
