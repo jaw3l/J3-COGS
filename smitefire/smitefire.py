@@ -19,7 +19,7 @@ try:
 except:
     soupAvailable = False
 
-class smitefire:
+class SmiteFire:
     """BATTLEGROUND OF GODS"""
 
     def __init__(self, bot):

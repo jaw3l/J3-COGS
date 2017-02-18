@@ -2,6 +2,8 @@
     "AUTHOR" : "jaw3l",
     "INSTALL_MSG" : "This is the very early beta version. I am trying to develop fast as i can. Thank you for installing. Syntax `[p]smite subcommand`",
     "NAME" : "SmiteFire",
+    "DISABLED" : false,
+    "TAGS" : ["smite", "smitefire"],
     "SHORT" : "SMITE Game Info",
     "DESCRIPTION" : "Gives information about SMITE, Gods, Builds."
 }

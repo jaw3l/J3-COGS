@@ -2,6 +2,8 @@
     "AUTHOR" : "jaw3l",
     "INSTALL_MSG" : "Thank you for installing. Syntax `[p]speedtest`",
     "NAME" : "Speedtest",
-    "SHORT" : "Speedtest for your server!",
+    "SHORT" : "Speedtest of server.",
+    "DISABLED" : false,
+    "TAGS" : ["speedtest", "speed", "internet speed"],
     "DESCRIPTION" : "Tests your server's internet speed."
 }

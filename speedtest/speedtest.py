@@ -4,7 +4,7 @@ from __main__ import send_cmd_help
 import subprocess
 import asyncio
 
-class speedtest:
+class Speedtest:
 
     def __init__(self,bot):
         self.bot = bot
