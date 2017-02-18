@@ -47,5 +47,5 @@ class Speedtest:
 
 
 def setup(bot):
-    speed = speedtest(bot)
+    speed = Speedtest(bot)
     bot.add_cog(speed)

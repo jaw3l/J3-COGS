@@ -43,6 +43,7 @@ class SmiteFire:
 
         #Your code will go here
         await self.bot.say("I can do stuff!")
+        await self.bot.say(contentdiv)
 
     # Check online players.
     @smite.command(name = 'online', pass_context = True)
